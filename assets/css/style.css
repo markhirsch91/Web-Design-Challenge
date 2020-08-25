@@ -1,0 +1,50 @@
+body {
+    background-color: #ededed;
+}
+
+.main-title {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #4aaaa5;
+    font-weight: bold;
+}
+
+
+.box-column {
+    margin-top: 60px; 
+    margin-bottom: 62px; 
+    padding: 10px 20px 15px; 
+    color:black;
+    background-color: white; 
+
+  }
+
+
+.main-image {
+    width: 60%;
+    height: 60%;
+}
+
+.navigation .navbar-brand {
+    background-color: #4aaaa5;
+    text-align: center;
+    color: white;
+    margin-left: 20px;
+    width: 90px; 
+}
+
+.side-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.side-container .image {
+    width: 50%;
+}
+
+.side-container img {
+    width: 200px;
+    margin: 10px;
+}
+
