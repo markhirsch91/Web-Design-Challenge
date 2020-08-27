@@ -13,9 +13,8 @@ body {
 
 .box-column {
     margin-top: 60px; 
-    margin-bottom: 62px; 
-    padding: 10px 20px 15px; 
-    color:black;
+    margin-bottom: 60px; 
+    padding: 20px; 
     background-color: white; 
   }
 
@@ -44,6 +43,22 @@ body {
 .side-container img {
     width: 200px;
     margin: 10px;
+}
+
+
+.comp-image {
+   width: 100%; 
+}
+
+
+.chart-title {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #4aaaa5;
+    font-weight: bolder;
+    text-align: center;
+
 }
 
 
